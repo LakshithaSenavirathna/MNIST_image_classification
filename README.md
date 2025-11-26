@@ -14,6 +14,9 @@ This repository contains a Jupyter notebook that trains a neural network to clas
 - Trains the model with a suitable loss function and optimizer.
 - Evaluates accuracy on the test set and may visualize sample predictions.
 
+
+<img width="1182" height="593" alt="Image" src="https://github.com/user-attachments/assets/90160b14-75a3-47f1-bc01-7ac6b13b3983" />
+
 ## Repository structure
 
 - `MNIST_classification.ipynb` – Main notebook with data loading, model definition, training, and evaluation code.
